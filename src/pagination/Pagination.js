@@ -1,5 +1,5 @@
 import React, { PureComponent } from 'react';
-import { I18nManager, Platform, Views } from 'react-native';
+import { I18nManager, Platform, View } from 'react-native';
 //import PropTypes from 'prop-types'; , ViewPropType
 import PaginationDot from './PaginationDot';
 import styles from './Pagination.style';
